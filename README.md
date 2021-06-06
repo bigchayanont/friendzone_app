@@ -9,7 +9,7 @@ npm run serve
 ```
 
 
-Frontend Configuration 
+### Frontend Configuration 
 Frontend  configuration
 - ./src/vue.config.js
 API to backend port configuration
@@ -24,7 +24,7 @@ npm install
 npm start
 ```
 
-## Backend Configuration 
+### Backend Configuration 
 - ./server.js
 - ./app/config
 - ./app/models/db.connection.js
@@ -40,4 +40,4 @@ that end by .model.js
 - Worachot          Yuwamirt                      62070503446
 - Narapathra        Morakrant                     62070503464
 
-For CPE 231 Database Systems final project
+> For CPE 231 Database Systems final project

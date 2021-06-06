@@ -7,9 +7,6 @@ npm install
 npm run serve
 ```
 
-For development purpose use this instead of npm run serve
-npm run build 
-
 
 Frontend Configuration 
 Frontend  configuration
@@ -19,9 +16,12 @@ API to backend port configuration
 
 
 Backend Installation
+
+```
 cd Frontend
 npm install 
 npm start
+```
 
 Backend Configuration 
 - ./server.js

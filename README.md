@@ -1,6 +1,8 @@
 # Friendzone Website Application
 
-![](Frontend/src/assets/longlogo.png)
+<p align="center">
+  <img style="width:100%" src="Frontend/src/assets/longlogo.png">
+</p>
 
    Welcome to Friendzone, This project will gather people that have the same interest and meet up. We virtualize the real system and experiences for this project. Which consists of creating a meetup event room, rating event, chat system and more. Users are able to redeem their points in exchange for their discount with our partners. Including a function that will analyse data for a role “analyzer” for business and marketing opportunities. 
 

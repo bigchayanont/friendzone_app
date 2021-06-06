@@ -1,4 +1,4 @@
-### friendzone_app
+### Friendzone Website Application
 Frontend Installation
 cd Frontend
 npm install 

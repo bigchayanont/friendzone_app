@@ -18,7 +18,7 @@ API to backend port configuration
 Backend Installation
 
 ```
-cd Frontend
+cd Backend
 npm install 
 npm start
 ```

@@ -37,7 +37,7 @@ Backend Configuration
 For the queries on this project were all file in ./app/models
 that end by .model.js
 
-## Created by Friendzone group member
+## Created by Friendzone Group Member (CPE33 International)
 
 - Chayanont         Piyawatcharavijit             62070503410
 - Piriya            Chaigul                       62070503438

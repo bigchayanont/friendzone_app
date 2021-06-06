@@ -1,5 +1,7 @@
 # Friendzone Website Application
 
+Welcome to Friendzone, This project will gather people that have the same interest and meet up. We virtualize the real system and experiences for this project. Which consists of creating a meetup event room, rating event, chat system and more. Users are able to redeem their points in exchange for their discount with our partners. Including a function that will analyse data for a role “analyzer” for business and marketing opportunities. 
+
 ## Frontend Installation
 
 ```
@@ -9,8 +11,7 @@ npm run serve
 ```
 
 
-### Frontend Configuration 
-Frontend  configuration
+Frontend Configuration 
 - ./src/vue.config.js
 API to backend port configuration
 - ./src/services/port.config.js
@@ -24,7 +25,7 @@ npm install
 npm start
 ```
 
-### Backend Configuration 
+Backend Configuration 
 - ./server.js
 - ./app/config
 - ./app/models/db.connection.js

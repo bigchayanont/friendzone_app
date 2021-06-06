@@ -1,8 +1,11 @@
 ### Friendzone Website Application
 Frontend Installation
+
+```
 cd Frontend
 npm install 
 npm run serve
+```
 
 For development purpose use this instead of npm run serve
 npm run build 

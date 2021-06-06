@@ -32,10 +32,11 @@ For the queries on this project were all file in ./app/models
 that end by .model.js
 
 Created by Friendzone group member
-Chayanont         Piyawatcharavijit             62070503410
-Piriya            Chaigul                       62070503438
-Phumiphat         Tatiyawongsoonthorn           62070503442
-Worachot          Yuwamirt                      62070503446
-Narapathra        Morakrant                     62070503464
+
+- Chayanont         Piyawatcharavijit             62070503410
+- Piriya            Chaigul                       62070503438
+- Phumiphat         Tatiyawongsoonthorn           62070503442
+- Worachot          Yuwamirt                      62070503446
+- Narapathra        Morakrant                     62070503464
 
 For CPE 231 Database Systems final project

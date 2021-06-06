@@ -1,5 +1,6 @@
 ### Friendzone Website Application
-Frontend Installation
+
+#Frontend Installation
 
 ```
 cd Frontend
@@ -15,7 +16,7 @@ API to backend port configuration
 - ./src/services/port.config.js
 
 
-Backend Installation
+#Backend Installation
 
 ```
 cd Backend
@@ -23,7 +24,7 @@ npm install
 npm start
 ```
 
-Backend Configuration 
+#Backend Configuration 
 - ./server.js
 - ./app/config
 - ./app/models/db.connection.js
@@ -31,7 +32,7 @@ Backend Configuration
 For the queries on this project were all file in ./app/models
 that end by .model.js
 
-Created by Friendzone group member
+#Created by Friendzone group member
 
 - Chayanont         Piyawatcharavijit             62070503410
 - Piriya            Chaigul                       62070503438
